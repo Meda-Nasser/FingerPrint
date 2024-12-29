@@ -1,0 +1,125 @@
+[
+    {
+        "username": "admin",
+        "date_time": "2024-12-21 19:47:37",
+        "location": [
+            30.6043,
+            32.2722
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-21 19:48:17",
+        "location": [
+            30.6043,
+            32.2722
+        ],
+        "status": "حضور"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-21 19:49:21",
+        "location": [
+            30.6043,
+            32.2722
+        ],
+        "status": "حضور"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-21 19:51:00",
+        "location": [
+            30.6043,
+            32.2722
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-25 20:26:45",
+        "location": [
+            30.6043,
+            32.2722
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin7",
+        "date_time": "2024-12-26 07:12:12",
+        "location": [
+            30.0434,
+            31.2352
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin7",
+        "date_time": "2024-12-26 07:12:31",
+        "location": [
+            30.0434,
+            31.2352
+        ],
+        "status": "سفر"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-26 07:20:23",
+        "location": [
+            30.0434,
+            31.2352
+        ],
+        "status": "حضور"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-26 13:37:33",
+        "location": [
+            30.103367,
+            31.366348
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin8",
+        "date_time": "2024-12-26 13:39:47",
+        "location": [
+            30.103367,
+            31.366348
+        ],
+        "status": "انصراف"
+    },
+    {
+        "username": "admin8",
+        "date_time": "2024-12-26 16:43:20",
+        "location": [
+            30.103367,
+            31.366348
+        ],
+        "status": "حضور"
+    },
+    {
+        "username": "admin8",
+        "date_time": "2024-12-26 16:43:34",
+        "location": "30.103367, 31.366348",
+        "status": "سفر"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-26 17:36:56",
+        "location": "30.103491, 31.366435",
+        "status": "انصراف"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-26 17:44:29",
+        "location": "30.103367, 31.366348",
+        "status": "سفر"
+    },
+    {
+        "username": "admin",
+        "date_time": "2024-12-27 13:17:37",
+        "location": "30.591786, 32.258254",
+        "status": "انصراف"
+    }
+]
